@@ -742,7 +742,7 @@
     "Your card was declined. Please contact your card issuer for more information.": "کارت شما معتبر نیست. لطفا با سرویس دهنده خودتان تماس بگیرید",
     "Your current payment method is :paypal.": "روش پرداختی فعلی شما روی :paypal تنظیم شده",
     "Your current payment method is a credit card ending in :lastFour that expires on :expiration.": "روش پرداخت شما روی کارت اعتباری تنظیم شده که در :lastFour در :expiration به پایان میرسد",
-    "Your email address is unverified.": "Your email address is unverified.",
+    "Your email address is unverified.": "آدرس ایمیل شما تایید نشده است.",
     "Your registered VAT Number is :vatNumber.": "شماره ثبتی VAT شما :vatNumber است",
     "Zambia": "زامبیا",
     "Zimbabwe": "زیمباوه",
